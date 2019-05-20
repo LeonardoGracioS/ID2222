@@ -1,2 +1,4 @@
 # ID2222
-ID 2222 Data Mining at KTH
+Repository for the ID2222 Data Mining course at KTH.
+
+This repository only contains academic labs.
